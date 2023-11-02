@@ -1,0 +1,15 @@
+---
+title: "About me"
+output: 
+  html_document:
+    toc: true
+    toc_float: true
+---
+
+# This page has information about me
+
+I'm a student at CUIMC
+
+## Links
+
+[Google](https://www.google.com)
